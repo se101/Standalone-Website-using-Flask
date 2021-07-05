@@ -1,2 +1,9 @@
 # Standalone-Website-using-Flask
-Using JavaScript, SQL, Python-Flask, HTML and CSS
+
+JavaScript 
+
+SQL
+
+Python- Flask & Jinja  
+
+HTML and CSS
